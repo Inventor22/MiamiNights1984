@@ -1,0 +1,3 @@
+[submodule "CUESDK.NET"]
+	path = CUESDK.NET
+	url = https://github.com/Inventor22/CUESDK.NET.git
