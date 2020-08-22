@@ -1,3 +1,6 @@
 [submodule "CUESDK.NET"]
 	path = CUESDK.NET
 	url = https://github.com/Inventor22/CUESDK.NET.git
+[submodule "KrakenX63"]
+	path = KrakenX63
+	url = https://github.com/Inventor22/KrakenX63.git
